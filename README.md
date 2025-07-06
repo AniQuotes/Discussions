@@ -1,6 +1,6 @@
 # AniQuotes Discussions Hub
 
-## Welcome to the AniQuotes Community Forum! 🌸
+## Welcome to the AniQuotes Community Forum!
 
 This is the central hub for developers, anime fans, and contributors to discuss everything related to the AniQuotes API ecosystem. Share ideas, get support, and collaborate with fellow weeb developers!
 
@@ -83,7 +83,7 @@ Official news from the core team
 [Screenshots, mockups, or API examples]
 ```
 
-### Support Request Template
+### 👮 Support Request Template
 ````markdown
 ## [Brief Description of Issue]
 
@@ -120,7 +120,7 @@ const response = await fetch(`https://api.aniquotes.org/v2/image?id=123`);
 
 | Resource | Description | Access |
 |----------|-------------|--------|
-| **API Docs** | Complete endpoint documentation | [View Docs](https://api.aniquotes.org/docs) |
+| **API Docs** | Complete endpoint documentation | [View Docs](https://github.com/AniQuotes/Documentation) |
 
 ## Badge System
 
@@ -140,7 +140,7 @@ pie
 ## Community Moderation
 
 **Our Team:**
-- @Shineii86 (Lead Maintainer)
+- [Shinei Nouzen](https://github.com/Shineii86) (Lead Maintainer)
 
 **Please Report:**
 - Spam/commercial posts
@@ -159,7 +159,19 @@ journey
 
 **Top Contributors This Month:**
 
+> *Join the conversation and help shape the future of AniQuotes API! Your voice matters in our community!*
+
 ---
 
-**Join the conversation and help shape the future of AniQuotes API!**  
-🌸 Your voice matters in our community! 🌸
+<div align="center">
+  
+**AniQuotes** For inquiries or collaborations
+     
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
+[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+
+<sup>Maintained by [Shinei Nouzen](https://github.com/Shineii86) © 2025 AniQuotes - All Rights Reserved</sup>
+
+</div>
